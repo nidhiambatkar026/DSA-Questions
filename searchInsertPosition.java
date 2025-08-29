@@ -1,3 +1,6 @@
+/*Given a sorted array of distinct integers A and a target value K, return the index if the target is found. If not, return the index where it would be if inserted in order.
+Complete the function and use Binary Search to solve this Problem.*/
+
 import java.util.Scanner;
 
 public class searchInsertPosition {
